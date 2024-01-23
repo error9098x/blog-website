@@ -1,7 +1,6 @@
 import 'katex/dist/katex.min.css';
 import 'prismjs/themes/prism-tomorrow.css';
 import 'react-notion-x/src/styles.css';
-
 import Header from '@/components/header/header';
 import Provider from '@/components/provider';
 import ScrollUpButton from '@/components/scroll-up-button';
@@ -10,8 +9,8 @@ import '@/styles/paginate.css';
 
 export const metadata = {
   title: {
-    default: 'Jihoo Kim',
-    template: '%s | Jihoo Kim',
+    default: "Dec0der's Blogs",
+    template: "%s | Dec0der's Blogs",
   },
 };
 
